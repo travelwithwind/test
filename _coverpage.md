@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/READNE)
+[Get Started](/README.md)
