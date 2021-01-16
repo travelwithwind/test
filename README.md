@@ -6,3 +6,5 @@
 sky is blue
 
 cloud is white
+
+roses are red
